@@ -7,10 +7,10 @@ O projeto visa promover e explorar as oportunidades que surgem quando a agricult
 
 ## 👀 Acesse o Site
 
-- GitHub Pages: https://richardcarraro.github.io/AGRINHO-2024/
+- GitHub Pages: https://github.com/JacksonVinharski/Agrinho2025.git
     Videos OFF
 
-- Vercel: [agrinho-2025-git-main-richardcarraros-projects.vercel.app](https://agrinho-2025-git-main-richardcarraros-projects.vercel.app/)
+- Vercel: [agrinho-2025-git-main-JacksonVinharski-projects.vercel.app](https://github.com/JacksonVinharski/Agrinho2025.git)
     Videos ON
 
 
